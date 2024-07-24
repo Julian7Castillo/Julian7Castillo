@@ -1,4 +1,5 @@
-<h1> Hi I'm Julián Castillo👋<h1># 💫 About Me:
+Hi I'm Julián Castillo👋
+  # 💫 About Me:
 <br>Soy un desarrollador de software Colombiano en diversos campos Web, Móvil y de escritorio.<br>dedicado mi tiempo a aprender y perfeccionar mis habilidades en diferentes lenguajes y tecnologías<br>Trabajo en equipo colaborando en investigaciones y proyectos ya sean personales y empresariales.<br>También me he dedicado a compartir mi conocimiento como Docente en el área de sistemas.
 
 
