@@ -3,7 +3,7 @@
 <br>I am a Colombian software developer in various Web, Mobile and desktop fields.
 I dedicate my time to learning and perfecting my skills in different languages ​​and technologies.
 Teamwork collaborating on research and projects, whether personal or business.
-I also dedicated myself to sharing my knowledge as a Teacher in the systems area.
+I also dedicated myself to sharing my knowledge as a Teacher in the systems area.<br>
 
 💫 Sobre mi:
 <br>Soy un desarrollador de software Colombiano en diversos campos Web, Móvil y de escritorio.<br>Dedico mi tiempo a aprender y perfeccionar mis habilidades en diferentes lenguajes y tecnologías.<br>Trabajo en equipo colaborando en investigaciones y proyectos ya sean personales o empresariales.<br>También me he dedicado a compartir mi conocimiento como Docente en el área de sistemas.
